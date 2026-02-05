@@ -1,0 +1,19 @@
+body {
+  background-color: #212121;
+  color: #fff;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.clock-container {
+  margin-top: 10px;
+  background-color: orange;
+  padding: 20px 50px;
+  font-size: 40px;
+  border-radius: 10px;
+  text-align: center;
+}

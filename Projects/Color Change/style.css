@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin: 30px 135px 0px 135px;
+}
+.box-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+}
+#blue {
+  background-color: blue;
+}
+#aquamarine {
+  background-color: aquamarine;
+}
+#brown {
+  background-color: brown;
+}
+#chocolate {
+  background-color: chocolate;
+}
